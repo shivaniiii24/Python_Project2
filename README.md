@@ -1,4 +1,4 @@
-                                                                    Diwali Sales Analysis
+                                                              Diwali Sales Analysis
 **Project Overview:**
 This project aims to analyze the Diwali sales data to gain insights into customer behavior, product performance, and regional trends. By understanding these patterns, businesses can optimize their strategies for future sales.
 
